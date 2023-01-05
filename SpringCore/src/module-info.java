@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author anagvr
+ *
+ */
+module SpringCore {
+}
